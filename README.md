@@ -13,4 +13,5 @@
 ### -📫 How to reach me: avdhootjadhav002@gmail.com
 ### -😄 Pronouns: Hardworking, Passionate
 ### - ⚡ Fun fact: Trying new stuff to find my interest
+### - [![Avdhoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvdhootJadhav)](https://github.com/anuraghazra/github-readme-stats)
 
