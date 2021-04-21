@@ -12,6 +12,8 @@
  - 😄 Pronouns: Hardworking, Passionate
  - ⚡ Fun fact: Trying new stuff to find my interest
 
+<img src="https://tenor.com/bnjTS.gif" width="40" height="40" align="center" />
+
 ### [![Avdhoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvdhootJadhav&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvdhootJadhav)](https://git.io/streak-stats)
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvdhootJadhav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
