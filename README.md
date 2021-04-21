@@ -1,3 +1,5 @@
+<img src="https://github.com/AvdhootJadhav/AvdhootJadhav/blob/main/Avdhoot%20Jadhav's-cover.png" >
+
 ### Hi there I am Avdhoot Jadhav👋
 
 <!--
