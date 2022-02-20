@@ -1,4 +1,4 @@
-
+ <img src="https://github.com/AvdhootJadhav/AvdhootJadhav/blob/main/cover.png">
 
 ### Hi there I am Avdhoot Jadhav 👋
 
