@@ -26,7 +26,6 @@
  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
 ### [![Avdhoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvdhootJadhav&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
