@@ -7,7 +7,7 @@
 
  - 🔭 I’m currently working on Frontend & Spring Boot
  - 🌱 I’m currently learning everything
- - 💬 Ask me about Flutter
+ - 💬 Ask me about Spring Boot
  - 📫 How to reach me: [Mail](avdhootjadhav002@gmail.com) , [LinkedIn](https://www.linkedin.com/in/avdhoot-jadhav-349a80185/)
  - 😄 Pronouns: He/Him
  - ⚡ Fun fact: Trying new stuff to find my interest
