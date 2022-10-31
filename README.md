@@ -59,11 +59,3 @@
  <!-- Heroku -->
  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
 </p>
-
-### [![Avdhoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvdhootJadhav&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvdhootJadhav)](https://git.io/streak-stats)
-
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvdhootJadhav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
