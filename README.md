@@ -59,3 +59,5 @@
  <!-- Heroku -->
  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
 </p>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AvdhootJadhav&show_icons=true)
