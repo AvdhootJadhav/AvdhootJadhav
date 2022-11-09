@@ -1,6 +1,6 @@
- <img src="https://github.com/AvdhootJadhav/AvdhootJadhav/blob/main/Avdhoot%20Jadhav's-cover.png">
 
-### Hi there I am Avdhoot Jadhav 👋
+
+### Heyy, I am Avdhoot Jadhav 👋
 
 <!--
 **AvdhootJadhav/AvdhootJadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
