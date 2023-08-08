@@ -5,7 +5,7 @@
 <!--
 **AvdhootJadhav/AvdhootJadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
- - 🔭 I’m currently working on Frontend & Spring Boot
+ - 🔭 I’m currently working on Kotlin & Ktor
  - 🌱 I’m currently expanding my knowledge domain
  - 💬 Ask me about C++ & Java
  - 📫 How to reach me: [Mail](avdhootjadhav002@gmail.com) , [LinkedIn](https://www.linkedin.com/in/avdhoot-jadhav-349a80185/)
