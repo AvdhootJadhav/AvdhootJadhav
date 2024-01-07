@@ -6,7 +6,7 @@
 **AvdhootJadhav/AvdhootJadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
  - 🔭 I’m currently working on Kotlin, Ktor, Spring Boot & Rust
- - 🌱 I’m currently expanding my knowledge domain
+ - 🌱 I’m currently learning Rust & Zig
  - 💬 Ask me about C++, Java & Kotlin
  - 📫 How to reach me: [Mail](avdhootjadhav002@gmail.com) , [LinkedIn](https://www.linkedin.com/in/avdhoot-jadhav-349a80185/)
  - 😄 Pronouns: He/Him
@@ -14,6 +14,9 @@
 
 ### Languages and Tools 💻
 <p>
+ 
+<!-- Rust -->
+ <img src = "https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
  
 <!-- C++ -->
  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
