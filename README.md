@@ -14,6 +14,9 @@
 
 ### Languages and Tools 💻
 <p>
+
+<!-- Elixir -->
+<img src = "https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)">
  
 <!-- Rust -->
  <img src = "https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
@@ -50,9 +53,6 @@
 
  <!-- Docker -->
  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-
-<!-- Jira -->
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
  
 <!--  Hibernate -->
  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
@@ -65,10 +65,4 @@
 
 <!-- PostgreSQL -->
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
- 
-<!-- Linuxmint -->
- <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
- 
-<!-- Postman -->
- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
