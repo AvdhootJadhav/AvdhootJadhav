@@ -8,7 +8,6 @@
  - 🔭 I’m currently working on Golang
  - 🌱 I’m currently learning Elixir
  - 💬 Ask me about C++, Golang, Java & Kotlin
- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/avdhoot-jadhav-349a80185/)
  - 😄 Pronouns: He/Him
  - ⚡ Fun fact: Trying new stuff to find my interest
 
@@ -40,3 +39,6 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Beta002)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Beta002/)
 [![AtCoder](https://atrating.baoshuo.dev/rating?username=Beta002&style=for-the-badge)](https://atcoder.jp/users/Beta002)
+
+### Connect with me 📫
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avdhoot-jadhav-349a80185/)
